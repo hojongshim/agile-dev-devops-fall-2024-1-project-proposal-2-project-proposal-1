@@ -3,7 +3,7 @@
 ## Project Title
 GolfCaddy
 
-## **What and Why?***
+## **What and Why?**
 * GolfCaddy is a golf club rental platform designed for golfers looking to rent clubs on the short-term. A set of golf clubs can often be difficult to find for amateur golfers, as it is not a cheap investment. This application will solve those problems by offering a quick and easy solution to make golf more accessible for all.
 
 * This application addresses the lack of abundance for golf club rental services online. Although most club houses offer rental services, some golfers look for more variety in their rental choices. Others may even want to rent the clubs for over a day in case of a short-term trip. GolfCaddy is intended to solve those difficulties through its user-friendly interface.
